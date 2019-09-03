@@ -4,6 +4,7 @@ a simple upload for vue
 # npm i upload-common
 
 # example
+```html
 <upload-common
   :url=""
   @before=""
@@ -11,3 +12,4 @@ a simple upload for vue
   @error=""
 >
 </upload-common>
+```
