@@ -1,7 +1,8 @@
 # upload-common
 a simple upload for vue
 
-# npm i upload-common
+# use
+npm i upload-common
 
 # example
 ```html
